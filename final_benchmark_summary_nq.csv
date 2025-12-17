@@ -1,0 +1,4 @@
+Model,Correct Context,Irrelevant Context,Misleading Context
+mistral_nq,93.9,20.6,5.8
+qwen_nq,92.9,7.3,2.1
+gemma_nq,95.1,1.1,0.1
